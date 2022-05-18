@@ -1,0 +1,58 @@
+[INFO ] 2022-05-18 23:24:37.244 [main] Logs - Clicking on profile
+[INFO ] 2022-05-18 23:24:39.412 [main] Logs - Clicking on login
+[INFO ] 2022-05-18 23:24:43.536 [main] Logs - Typing login mail
+[INFO ] 2022-05-18 23:24:45.755 [main] Logs - Typing login password
+[INFO ] 2022-05-18 23:24:48.998 [main] Logs - Submitting login details
+[INFO ] 2022-05-18 23:24:51.102 [main] Logs - Clicking on profile
+[INFO ] 2022-05-18 23:24:55.335 [main] Logs - Clicking on My Profie
+[INFO ] 2022-05-18 23:24:57.417 [main] Logs - Getting Mail from my profile page
+[INFO ] 2022-05-18 23:25:03.877 [main] Logs - Clicking on profile
+[INFO ] 2022-05-18 23:25:05.981 [main] Logs - Clicking on login
+[INFO ] 2022-05-18 23:25:09.752 [main] Logs - Typing login mail
+[INFO ] 2022-05-18 23:25:11.892 [main] Logs - Typing login password
+[INFO ] 2022-05-18 23:25:14.715 [main] Logs - Submitting login details
+[INFO ] 2022-05-18 23:25:16.783 [main] Logs - getting error message on login page
+[INFO ] 2022-05-18 23:25:20.426 [main] Logs - Clicking on profile
+[INFO ] 2022-05-18 23:25:22.527 [main] Logs - clicking on signup
+[INFO ] 2022-05-18 23:25:26.568 [main] Logs - Typing sign up mail
+[INFO ] 2022-05-18 23:25:28.750 [main] Logs - Typing sign up password
+[INFO ] 2022-05-18 23:25:28.815 [main] Logs - getting error 1 from signup form
+[INFO ] 2022-05-18 23:25:28.940 [main] Logs - Submitting signup details
+[INFO ] 2022-05-18 23:25:35.131 [main] Logs - typing mail for subscribing for altest offers
+[INFO ] 2022-05-18 23:25:37.303 [main] Logs - clicking on subscribe
+[INFO ] 2022-05-18 23:25:39.363 [main] Logs - getting message for successfully subscribed
+[INFO ] 2022-05-18 23:25:43.430 [main] Logs - Clicking on profile
+[INFO ] 2022-05-18 23:25:45.526 [main] Logs - Clicking on login
+[INFO ] 2022-05-18 23:25:49.453 [main] Logs - Typing login mail
+[INFO ] 2022-05-18 23:25:51.663 [main] Logs - Typing login password
+[INFO ] 2022-05-18 23:25:54.787 [main] Logs - Submitting login details
+[INFO ] 2022-05-18 23:25:56.902 [main] Logs - Typing in search box
+[INFO ] 2022-05-18 23:26:00.181 [main] Logs - clicking on search button
+[INFO ] 2022-05-18 23:26:04.319 [main] Logs - clicking on Product 1
+[INFO ] 2022-05-18 23:26:06.486 [main] Logs - Clicking on whishlist icon
+[INFO ] 2022-05-18 23:26:09.232 [main] Logs - Clicking on check Whishlist
+[INFO ] 2022-05-18 23:26:11.296 [main] Logs - Getting Name of the item from wishlistpage
+[INFO ] 2022-05-18 23:26:16.923 [main] Logs - Clicking on profile
+[INFO ] 2022-05-18 23:26:19.067 [main] Logs - Clicking on login
+[INFO ] 2022-05-18 23:26:22.780 [main] Logs - Typing login mail
+[INFO ] 2022-05-18 23:26:24.922 [main] Logs - Typing login password
+[INFO ] 2022-05-18 23:26:28.229 [main] Logs - Submitting login details
+[INFO ] 2022-05-18 23:26:30.342 [main] Logs - Typing in search box
+[INFO ] 2022-05-18 23:26:33.673 [main] Logs - clicking on search button
+[INFO ] 2022-05-18 23:26:38.177 [main] Logs - clicking on Product 1
+[INFO ] 2022-05-18 23:26:42.974 [main] Logs - Clicking on add to cart
+[INFO ] 2022-05-18 23:26:45.050 [main] Logs - Getting item name from the cart page
+[INFO ] 2022-05-18 23:26:50.619 [main] Logs - Typing in search box
+[INFO ] 2022-05-18 23:26:53.938 [main] Logs - clicking on search button
+[INFO ] 2022-05-18 23:26:58.253 [main] Logs - clicking on Product 1
+[INFO ] 2022-05-18 23:27:00.570 [main] Logs - Closing pop up
+[INFO ] 2022-05-18 23:27:02.818 [main] Logs - Clicking on emi know more
+[INFO ] 2022-05-18 23:27:04.909 [main] Logs - Getting getting heading of emi options
+[INFO ] 2022-05-18 23:27:12.729 [main] Logs - clicking on store button
+[INFO ] 2022-05-18 23:27:14.642 [main] Logs - Clicking on Delhi store
+[INFO ] 2022-05-18 23:27:14.748 [main] Logs - Getting location of the store
+[INFO ] 2022-05-18 23:27:21.318 [main] Logs - Clicking On ContactUs
+[INFO ] 2022-05-18 23:27:23.382 [main] Logs - Getting page title
+[INFO ] 2022-05-18 23:27:28.158 [main] Logs - Clicking on warranty,return and refund
+[INFO ] 2022-05-18 23:27:30.226 [main] Logs - Getting title for warranty policy
+[INFO ] 2022-05-18 23:27:30.282 [main] Logs - Getting title for Return and refund policy
